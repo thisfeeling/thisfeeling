@@ -8,6 +8,9 @@ Fullstack Developer — Apasionado por construir aplicaciones web y móviles esc
 
 ---
 
+
+
+
 ## 👨‍💻 Perfil profesional
 
 Soy Juan Esteban (jemg). Desarrollador Fullstack con más de 3 años diseñando, desarrollando e implementando aplicaciones web y móviles de alto rendimiento. Trabajo tanto en equipos colaborativos como de forma independiente, aplicando buenas prácticas de arquitectura, testing y CI/CD.
@@ -47,10 +50,11 @@ Me concentro en soluciones que aporten valor real: productos escalables, manteni
 
 ## 💼 Experiencia destacada
 
-**Desarrollador Fullstack — Diversote**  
+---
+**Desarrollador Fullstack — Diversotex**  
 Septiembre 2025 — Actualidad
 
-Tecnologías: Cloudflared, Node.js, Dokploy, Laravel, Axios, MySQL (MariaDB Server), Redis, Git, GitHub, Hostinger.
+Tecnologías: Cloudflared, Node.js, Dokploy, Laravel 12, Vue 3, Axios, MySQL (MariaDB Server), Redis, Git, GitHub, Hostinger.
 
 - Desarrollé una aplicación web para una empresa colombiana del sector textil.
 - Implementé integración con bases de datos MySQL/MariaDB y cacheo con Redis.
@@ -75,6 +79,8 @@ Visita mi perfil para ver proyectos públicos sobre toolchains, scripts y aplica
 
 - Trabajando con **Docker** para contenedores reproducibles y flujos CI/CD.
 - Mejorando repositorios open-source y automaciones de despliegue.
+- Aprendiendo: React + Next.js, TypeScript, Eloquent ORM, Tailwind, Redux y Vue.
+
 
 ---
 
