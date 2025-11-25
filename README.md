@@ -24,7 +24,7 @@ Me concentro en soluciones que aporten valor real: productos escalables, manteni
 ### Frontend
 
 - HTML5, CSS3, Tailwind, Bootstrap
-- JavaScript (ES6+), TypeScript, React, Next.js, shadcn/ui
+- JavaScript (ES6+), TypeScript, Vue, React, Next.js, shadcn/ui
 
 ### Mobile
 
