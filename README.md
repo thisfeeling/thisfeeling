@@ -63,10 +63,3 @@ Visita mi GitHub para ver proyectos públicos y contribuciones: [github.com/this
 - Tel: +57 302 274 8413
 
 ---
-
-## 📈 Estadísticas (opcional)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thisfeeling&show_icons=true&theme=radical&include_all_commits=true&count_private=true)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisfeeling&layout=compact&theme=radical)
-
----
