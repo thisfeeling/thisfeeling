@@ -70,7 +70,3 @@ Visita mi GitHub para ver proyectos públicos y contribuciones: [github.com/this
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisfeeling&layout=compact&theme=radical)
 
 ---
-
-## ✨ Versión corta (bio para tu perfil)
-
-Juan Esteban (jemg) — Desarrollador Fullstack | Vue 3 · Laravel · Docker | Mejorando infra y repos open-source. [🌐 jemg.dev](https://jemg.dev) • ✉️ murksopps@gmail.com
