@@ -17,7 +17,7 @@ Soy Juan Esteban (jemg). Dedicado a diseñar e implementar aplicaciones web y m�
 - **Backend:** Laravel (PHP) · REST · JWT   
 - **Móvil:** Capacitor (Android/iOS)  
 - **Base de datos:** MySQL · PostgreSQL · MariaDB · Redis  
-- **DevOps:** Docker · CI/CD · Cloudflared · Coolify  
+- **DevOps:** Docker · CI/CD · Cloudflared · Coolify · Dokploy · Vercel
 - **Herramientas:** Git · GitHub · Tests automatizados · Jenkins
 
 ## 💼 Experiencia destacada
