@@ -20,12 +20,6 @@ Soy Juan Esteban (jemg). Con más de 3 años diseñando e implementando aplicaci
 - **DevOps:** Docker · CI/CD · Cloudflared · Coolify  
 - **Herramientas:** Git · GitHub · Tests automatizados · Jenkins
 
-## 🚀 Proyectos destacados
-
-- **Kyli** - Gestor de tareas con **Vue 3**, **Laravel** y **MySQL** (ejemplo de proyecto).  
-- **Tienda Online** - Plataforma e-commerce desarrollada con **Next.js**, **Tailwind CSS** y **Stripe** (ejemplo de proyecto).  
-- **App Salud Móvil** - Aplicación multiplataforma con **Capacitor**, **Laravel** y **PostgreSQL** (ejemplo de proyecto).  
-
 ## 💼 Experiencia destacada
 
 **Desarrollador Fullstack — Diversotex**  
