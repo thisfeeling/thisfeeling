@@ -17,7 +17,7 @@ Soy Juan Esteban (jemg). Con más de 3 años diseñando e implementando aplicaci
 
 **Frontend:** Vue 3 · JavaScript/TypeScript · Tailwind · Vite  
 **Backend:** Laravel (PHP) · REST · JWT · Axios  
-**Mobile:** Kotlin (Android) · Swift (iOS)  
+**Mobile:** Capacitor (Android) / (iOS)  
 **DB & Cache:** MySQL / PostgreSQL / MariaDB · Redis  
 **DevOps:** Docker · CI/CD · Dokploy · Cloudflared  
 **Herramientas:** Git · GitHub · Tests automatizados
@@ -32,12 +32,6 @@ Septiembre 2025 — Actualidad
 - Desarrollo de una aplicación web para una empresa del sector textil usando Vue 3 y Laravel.
 - Integración con MySQL/MariaDB y cacheo con Redis.
 - Automatización de despliegues con Docker y pipelines CI/CD.
-
----
-
-## 📂 Proyectos & contribuciones
-
-Visita mi GitHub para ver proyectos públicos y contribuciones: [github.com/thisfeeling](https://github.com/thisfeeling)
 
 ---
 
@@ -60,6 +54,5 @@ Visita mi GitHub para ver proyectos públicos y contribuciones: [github.com/this
 - Email: [murksopps@gmail.com](mailto:murksopps@gmail.com)
 - Web: [https://jemg.dev](https://jemg.dev)
 - LinkedIn: [linkedin.com/in/thisfeeling](https://www.linkedin.com/in/thisfeeling)
-- Tel: +57 302 274 8413
 
 ---
