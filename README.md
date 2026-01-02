@@ -1,24 +1,65 @@
-# Juan Esteban "jemg" Manrique Giraldo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😄
+<div align="center">
+  <h1>👋 Juan Esteban "jemg" Manrique Giraldo</h1>
+  <h3>💻 Desarrollador Fullstack · Vue · Laravel · Docker</h3>
 
-**Desarrollador Fullstack** apasionado por construir aplicaciones web y móviles escalables, limpias y centradas en la experiencia del usuario.
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=thisfeeling&label=Visitas&color=f0db4f&style=flat-square" alt="Visitas al perfil" />
+    <img src="https://img.shields.io/github/followers/thisfeeling?label=Seguidores&style=flat-square&color=f0db4f" alt="Seguidores" />
+    <img src="https://img.shields.io/github/stars/thisfeeling?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas" />
+  </p>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&style=for-the-badge&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-f7f7f7?style=for-the-badge&logo=mysql&logoColor=blue) ![TS](https://img.shields.io/badge/TS-2f74c0?style=for-the-badge&logo=typescript&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-f7f7f7?style=for-the-badge&logo=tailwindcss&logoColor=blue) ![Dokploy](https://img.shields.io/badge/Dokploy-0A0A0A?style=for-the-badge&logo=docker&logoColor=white) 
+  <p>
+    <a href="https://jemg.dev">🌐 jemg.dev</a> • <a href="mailto:murksopps@gmail.com">✉️ murksopps@gmail.com</a>
+  </p>
+</div>
 
-[🌐 jemg.dev](https://jemg.dev) • [✉️ murksopps@gmail.com](mailto:murksopps@gmail.com)
-[GitHub — thisfeeling](https://github.com/thisfeeling) • [LinkedIn — thisfeeling](https://www.linkedin.com/in/thisfeeling)
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
 ## 🔭 Sobre mí
 
-Soy Juan Esteban (jemg). Dedicado a diseñar e implementar aplicaciones web y móviles, me enfoco en arquitecturas limpias, código mantenible y despliegues reproducibles. Trabajo en equipo aportando soluciones que brindan valor real a los usuarios.
+Soy **Juan Esteban (jemg)** — Desarrollador Fullstack apasionado por construir aplicaciones web y móviles escalables, limpias y centradas en la experiencia de usuario. Me enfoco en arquitecturas mantenibles y despliegues reproducibles.
 
-## 🛠️ Stack & habilidades principales
+---
 
-- **Frontend:** Vue 3 · JavaScript/TypeScript · Tailwind · Vite  
-- **Backend:** Laravel (PHP) · REST · JWT   
-- **Móvil:** Capacitor (Android/iOS)  
-- **Base de datos:** MySQL · PostgreSQL · MariaDB · Redis  
-- **DevOps:** Docker · CI/CD · Cloudflared · Coolify · Dokploy · Vercel
-- **Herramientas:** Git · GitHub · Tests automatizados · Jenkins
+## 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+  <!-- Principales -->
+  <h4>⚙️ Tecnologías principales</h4>
+  <img src="https://skillicons.dev/icons?i=vue,laravel,docker,php,mysql,ts,js,tailwind,vite,redis,git,github,vscode,capacitor" alt="Tecnologías principales" />
+  <br/><br/>
+
+  <!-- Más badges -->
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-f7f7f7?style=for-the-badge&logo=mysql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisfeeling&show_icons=true&theme=merko&hide_border=true&locale=es&custom_title=Estadísticas%20de%20GitHub&rank_icon=github" alt="Estadísticas GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisfeeling&layout=compact&theme=merko&hide_border=true&locale=es" alt="Lenguajes más usados" />
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisfeeling&theme=merko&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits" alt="Gráfico de actividad de commits" />
+</div>
+
+---
 
 ## 💼 Experiencia destacada
 
@@ -28,7 +69,29 @@ Soy Juan Esteban (jemg). Dedicado a diseñar e implementar aplicaciones web y m�
 - Integración con bases de datos (MySQL/MariaDB) y cacheo con **Redis**.  
 - Automatización de despliegues con **Docker** y pipelines de CI/CD.  
 
+---
+
 ## 🌎 Idiomas
 
 - Español — Nativo  
-- Inglés — Intermedio/Avanzado (fluidez técnica)  
+- Inglés — Intermedio/Avanzado (fluidez técnica)
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+  <a href="https://github.com/thisfeeling" title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="28" height="28" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thisfeeling" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/48/000000/linkedin.png" width="28" height="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:murksopps@gmail.com" title="Email">
+    <img src="https://img.icons8.com/ios-filled/48/000000/new-post.png" width="28" height="28" alt="Email"/>
+  </a>
+</div>
+
+---
