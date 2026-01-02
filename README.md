@@ -82,15 +82,15 @@ Soy **Juan Esteban (jemg)** — Desarrollador Fullstack apasionado por construir
 
 <div align="center">
   <a href="https://github.com/thisfeeling" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="28" height="28" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="28" height="28" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thisfeeling" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/48/000000/linkedin.png" width="28" height="28" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:murksopps@gmail.com" title="Email">
-    <img src="https://img.icons8.com/ios-filled/48/000000/new-post.png" width="28" height="28" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="28" height="28" alt="Email"/>
   </a>
 </div>
 
